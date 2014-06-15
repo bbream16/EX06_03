@@ -1,0 +1,222 @@
+﻿Build started 6/14/2014 4:46:15 PM.
+     1>Project "C:\Users\Ben\Desktop\EX06_03\EX06_03\EX06_03.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(61): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(61): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(69): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(73): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(106): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(106): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(114): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(118): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(151): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(151): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(159): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(163): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(171): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(196): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(196): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(204): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(208): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(241): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(241): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(242): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(249): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(253): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(256): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(261): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(286): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(256) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(286): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(242) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(287): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(294): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(298): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(301): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(306): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(331): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(301) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(331): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(287) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(256) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(242) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(332): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(339): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(343): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(346): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(351): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(376): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(346) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(376): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(332) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(301) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(287) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(256) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(242) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(377): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(384): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(388): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(391): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(396): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(421): error C2360: initialization of 'isFound' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(391) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(421): error C2360: initialization of 'fin' is skipped by 'case' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(377) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(346) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(332) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(301) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(287) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(256) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(242) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(422): error C2086: 'std::ifstream fin' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(429): error C2086: 'char gender' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(24) : see declaration of 'gender'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(433): error C2086: 'int rank' : redefinition
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(28) : see declaration of 'rank'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(436): error C2374: 'isFound' : redefinition; multiple initialization
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(441): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(466): error C2361: initialization of 'isFound' is skipped by 'default' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(436) : see declaration of 'isFound'
+     1>c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(466): error C2361: initialization of 'fin' is skipped by 'default' label
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(422) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(391) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(377) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(346) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(332) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(301) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(287) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(256) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(242) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(211) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(197) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(166) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(152) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(121) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(107) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(76) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(62) : see declaration of 'fin'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(31) : see declaration of 'isFound'
+                 c:\users\ben\desktop\ex06_03\ex06_03\source.cpp(18) : see declaration of 'fin'
+     1>Done Building Project "C:\Users\Ben\Desktop\EX06_03\EX06_03\EX06_03.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.45
